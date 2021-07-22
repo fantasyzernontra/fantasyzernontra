@@ -1,13 +1,10 @@
 name: 🌈🚀🖐🏻
 
 on:
-  push: 
-    branches:
-      - master
-  #schedule:
-    # 3 AM
-    #- cron: '0 20 * * *'
-  #workflow_dispatch:
+  schedule:
+    3 AM
+    - cron: '0 20 * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme:
