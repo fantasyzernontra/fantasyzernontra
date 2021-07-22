@@ -1,4 +1,4 @@
-# Yo Wat Sup XD
+# Hi reader!
 
 <!--START_SECTION:waka-->
 
