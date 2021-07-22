@@ -2,7 +2,7 @@ name: 🌈🚀🖐🏻
 
 on:
   schedule:
-    #3 AM
+    # 3AM 
     - cron: '0 20 * * *'
   workflow_dispatch:
 
@@ -10,6 +10,7 @@ jobs:
   update-readme:
     name: Go Go Let's Go !!! 🌈🚀
     runs-on: ubuntu-latest
+    
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
