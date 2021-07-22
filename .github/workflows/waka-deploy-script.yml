@@ -2,7 +2,7 @@ name: 🌈🚀🖐🏻
 
 on:
   schedule:
-    3 AM
+    #3 AM
     - cron: '0 20 * * *'
   workflow_dispatch:
 
