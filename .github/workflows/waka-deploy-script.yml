@@ -1,4 +1,4 @@
-name: Waka Readme Deployment Script
+name: 🌈🚀🖐🏻
 
 on:
   push: 
@@ -11,7 +11,7 @@ on:
 
 jobs:
   update-readme:
-    name: Update Readme with Metrics
+    name: Go Go Let's Go !!! 🌈🚀
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
