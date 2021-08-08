@@ -12,7 +12,7 @@ Additionally, I'm an entrepreneur who is curious about investment and innovation
 
 - 📚 Junior Computer Science Student @ KMUTT, Thailand
 - 🧑🏻‍💻 Co-founder @ Alchemist, Business IT Solution Based Advisor
-- 🌈 Expanding my aspect
+- 🌈 Expanding my perspective
 - 🏋🏻 Working with myself as a Weight Lifter
 
 ## Experiences
