@@ -31,8 +31,6 @@ Additionally, I'm an entrepreneur who is curious about investment and innovation
 #
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C179%20hrs%2032%20mins-blue)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -69,5 +67,5 @@ Solidity                 17 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 06/02/2022 20:13:09 UTC
+ Last Updated on 07/02/2022 20:11:18 UTC
 <!--END_SECTION:waka-->
