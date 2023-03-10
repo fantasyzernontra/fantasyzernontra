@@ -31,7 +31,7 @@ Additionally, I'm an entrepreneur who is curious about investment and innovation
 #
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C514%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C514%20hrs%204%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -69,5 +69,5 @@ Mac                      29 hrs              ███████████�
 ```
 
 
- Last Updated on 09/03/2023 20:13:41 UTC
+ Last Updated on 10/03/2023 20:12:39 UTC
 <!--END_SECTION:waka-->
