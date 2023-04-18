@@ -31,7 +31,7 @@ Additionally, I'm an entrepreneur who is curious about investment and innovation
 #
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C646%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C650%20hrs%2015%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -58,12 +58,14 @@ Sunday                   1651 commits        ███████░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               9 hrs 23 mins       █████████████████████████   100.00 % 
+JavaScript               12 hrs 3 mins       █████████████████████████   98.23 % 
+Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Solidity                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      9 hrs 23 mins       █████████████████████████   100.00 % 
+Mac                      12 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/04/2023 20:14:25 UTC
+ Last Updated on 18/04/2023 20:14:54 UTC
 <!--END_SECTION:waka-->
