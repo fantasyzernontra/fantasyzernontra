@@ -28,22 +28,22 @@ Sunday                   3524 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               11 hrs 2 mins       ████████████████████████░   95.70 % 
-CSS                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+TypeScript               10 hrs 56 mins      ████████████████████████░   95.67 % 
+CSS                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 💻 Operating System: 
-Mac                      11 hrs 32 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 38 mins (40.31%)
+⏱ AI Coding Time: 4 hrs 38 mins (40.63%)
 
-✍️ 595 lines written by AI, 3,546 lines written by hand (14.37% AI-written)
+✍️ 595 lines written by AI, 3,537 lines written by hand (14.4% AI-written)
 
 🔤 392,208 Input Tokens, 2,375 Output Tokens
 
@@ -54,12 +54,12 @@ Mac                      11 hrs 32 mins      ███████████�
 Github-Copilot           598 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 14.37% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 14.4% of written lines came from AI
 📚 Verbose Prompter — average 2,045 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 88.73% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 88.7% of changed lines were hand-edited
 ```
 
 
- Last Updated on 31/07/2026 21:07:59 UTC
+ Last Updated on 01/08/2026 20:52:08 UTC
 <!--END_SECTION:waka-->
