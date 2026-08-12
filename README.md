@@ -1,26 +1,26 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C920%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C922%20hrs%2015%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-133%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-134%20hrs%204%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4583 commits        ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
-🌆 Daytime                6846 commits        █████████░░░░░░░░░░░░░░░░   34.11 % 
-🌃 Evening                6126 commits        ████████░░░░░░░░░░░░░░░░░   30.52 % 
-🌙 Night                  2515 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+🌞 Morning                4834 commits        ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
+🌆 Daytime                7269 commits        █████████░░░░░░░░░░░░░░░░   34.58 % 
+🌃 Evening                6337 commits        ████████░░░░░░░░░░░░░░░░░   30.15 % 
+🌙 Night                  2580 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   3017 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-Tuesday                  3136 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
-Wednesday                2777 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
-Thursday                 2779 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-Friday                   2608 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-Saturday                 2225 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-Sunday                   3528 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+Monday                   3094 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Tuesday                  3290 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Wednesday                2992 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Thursday                 3002 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Friday                   2736 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+Saturday                 2316 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+Sunday                   3590 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
 ```
 
 
@@ -28,38 +28,38 @@ Sunday                   3528 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               7 hrs 8 mins        ███████████████████████░░   91.77 % 
-HTML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Java                     57 mins             ██████████░░░░░░░░░░░░░░░   41.20 % 
+TypeScript               46 mins             ████████░░░░░░░░░░░░░░░░░   33.57 % 
+HTML                     20 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Other                    14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      7 hrs 46 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 41 mins (47.4%)
+⏱ AI Coding Time: 1 hr 22 mins (59.54%)
 
-✍️ 1,882 lines written by AI, 3,323 lines written by hand (36.16% AI-written)
+✍️ 49 lines written by AI, 534 lines written by hand (8.4% AI-written)
 
-🔤 810,212 Input Tokens, 2,231 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $2.46 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 63 AI Prompts
+🧠 3 AI Sessions, 13 AI Prompts
 
-Github-Copilot           2,439 lines         █████████████████████████   100.00 % 
+Github-Copilot           64 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 36.16% of written lines came from AI
-📄 Detailed Prompter — average 544 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🔍 Hands-On Reviewer — 68.67% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 8.4% of written lines came from AI
+📄 Detailed Prompter — average 873 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 95.35% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11/08/2026 20:23:01 UTC
+ Last Updated on 12/08/2026 20:21:44 UTC
 <!--END_SECTION:waka-->
